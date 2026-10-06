@@ -18,7 +18,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>HOLA MUNDO CHISTEMAS</h1>
+          <h1>HOLA MUNDO CHISTEMAS github gaaaa</h1>
           <p>
             Edit <code>src/App.jsx</code> or <code>worker/index.js</code> and save to test <code>HMR</code>
           </p>
